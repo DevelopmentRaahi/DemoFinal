@@ -127,3 +127,17 @@ background: linear-gradient(90deg, rgba(232,137,137,1) 0%, rgba(210,200,165,1) 3
   color:#23488a;
   font-weight: 600;
 }
+.subscriber{
+margin-top: 2rem;
+}
+.subscriber input{
+padding: 0.5rem 1.2rem;
+}
+.btn-main{
+margin-top: 1.2rem;
+}
+.sub-content h3 {
+  background-color: #23488a;
+  color: white;
+  padding: 1.2rem 1.2rem;
+}
