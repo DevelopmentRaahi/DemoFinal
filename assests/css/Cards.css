@@ -161,3 +161,10 @@ margin-top: 1.2rem;
   width: calc(100% + 3px);
   transition: all 0.5s ease-in-out ;
 }
+
+.justify-text h2, h3 {
+  color: #23488a;
+}
+.justify-text h4{
+ color: #40288e;
+}
